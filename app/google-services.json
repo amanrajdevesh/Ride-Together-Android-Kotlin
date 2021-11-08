@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "404427792381",
+    "project_id": "ride-together-72ce0",
+    "storage_bucket": "ride-together-72ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404427792381:android:9398f57f0f7da817998394",
+        "android_client_info": {
+          "package_name": "com.example.ridetogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404427792381-3o1khud3rsnsm2437c0bigfbd5jqrdk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridetogether",
+            "certificate_hash": "1e1c07401e25b69649214bb5de6e94d5ee7c1699"
+          }
+        },
+        {
+          "client_id": "404427792381-o5l1o0j9tnsd1uleej7k4f90duu37bdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvz9y3dIgjB4f4JPudK2r93zbhQu8rKqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404427792381-o5l1o0j9tnsd1uleej7k4f90duu37bdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
